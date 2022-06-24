@@ -1,5 +1,7 @@
 # 我是谜app产品分析及竞品分析
 
+![avatar](/image/幻灯片1.png)
+
 ### ![](image/幻灯片1.png)
 ### ![](image/幻灯片2.png)
 ### ![](image/幻灯片3.png)
